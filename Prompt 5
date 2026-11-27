@@ -1,0 +1,10 @@
+Write a prompt asking ChatGPT to act as a college timetable coordinator and create a weekly class timetable for a second-year CSE section with 6 subject.
+
+Prompt:
+Act as a college timetable coordinator. Create a weekly class timetable for a second-year CSE (Computer Science and Engineering) section with 6 subjects.
+
+College timings are from 9:00 AM to 4:00 PM, Monday to Friday. Each period should be 50 minutes long, with a 10-minute short break and a 1-hour lunch break.
+
+Arrange the 6 subjects evenly throughout the week. Avoid repeating the same subject too many times in a day. Include subject names, period timings, short breaks, and lunch break.
+
+Present the timetable in a clear table format with days as rows and periods as columns.
